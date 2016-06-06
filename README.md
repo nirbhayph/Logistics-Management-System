@@ -44,13 +44,13 @@ The system aims to achieve ease of doing business by entirely controlling the de
     
 - Android
   
-  For Linux users: Install Android Studio as described [here](https://developer.android.com/studio/index.html) based on your Linux flavpur.
+  For Linux users: Install Android Studio as described [here](https://developer.android.com/studio/index.html) based on your Linux flavour.
             
   For Mac Users: Install Android Studio as described [here](https://developer.android.com/studio/index.html) based on your configuration.
 
 - PHP
   
-  For Linux users: Install and configure PHP as described [here](http://www.tutorialspoint.com/php/php_installation_linux.htm) based on your Linux flavpur.
+  For Linux users: Install and configure PHP as described [here](http://www.tutorialspoint.com/php/php_installation_linux.htm) based on your Linux flavour.
             
   For Mac Users: Install and configure PHP as described [here](http://jason.pureconcepts.net/2015/10/install-apache-php-mysql-mac-os-x-el-capitan/) based on your configuration.
 
