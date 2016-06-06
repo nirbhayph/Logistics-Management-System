@@ -7,7 +7,7 @@ The proposed system has a comprehensive logistics management app where the vendo
 
 The Logistics Management System app helps the vendor and the customer by providing the vendor an easy to use facility to ensure proper and timely delivery of its product and the customer the assurance of delivery. Thus it is a win-win situation for everyone. Also the path finder and reciept generation feature makes this app more effective and efficient.
 
-# Following functionalities have been implemented within the application:
+## Following functionalities have been implemented within the application:
 
 1. Real Time Location Tracking
 2. Authentication
@@ -15,7 +15,7 @@ The Logistics Management System app helps the vendor and the customer by providi
 4. Receipt Generation
 5. Final Acknowledgement
 
-# Functions: 
+## Functions: 
 
 The system aims to achieve ease of doing business by entirely controlling the delivery process. The functions are as follows:
 
@@ -25,7 +25,39 @@ The system aims to achieve ease of doing business by entirely controlling the de
 4. Receipt Generation.
 5. Acknowledgement and Feedback.
 
-# Tech Stack
+     
+
+##System Requirements
+
+    
+    Mysql
+    Git
+    Firefox
+    
+    Node.js
+        For Linux users
+            Install Node.js as described here based on your Linux flavour.
+            
+        For Mac users
+            Install Node.js directly or using homebrew using brew install nodejs
+
+            Those who install Node.js using Homebrew should export the following (or include in $HOME/.bash_profile or $HOME/.profile or $HOME/.bashrc or $HOME/.zshrc, depending on your shell.
+
+            export NODE_PATH="/usr/local/bin/node"
+            export PATH="/usr/local/share/npm/bin:$PATH"
+    
+    Android
+        For Linux users
+            Install Android Studio as described [here](https://google.com) based on your Linux flavpur.
+            
+        For Mac Users 
+            Install Android Studio as described [here](https://google.com) based on your configuration.
+
+            
+
+
+
+## Tech Stack
 
     Android
     Node.js
