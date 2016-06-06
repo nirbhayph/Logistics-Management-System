@@ -7,7 +7,7 @@ The proposed system has a comprehensive logistics management app where the vendo
 
 The Logistics Management System app helps the vendor and the customer by providing the vendor an easy to use facility to ensure proper and timely delivery of its product and the customer the assurance of delivery. Thus it is a win-win situation for everyone. Also the path finder and reciept generation feature makes this app more effective and efficient.
 
-Following functionalities have been implemented within the application:
+# Following functionalities have been implemented within the application:
 
 1. Real Time Location Tracking
 2. Authentication
@@ -15,13 +15,29 @@ Following functionalities have been implemented within the application:
 4. Receipt Generation
 5. Final Acknowledgement
 
-Functions: The system aims to achieve ease of doing business by entirely controlling the delivery process. The functions are as follows:
+# Functions: 
+
+The system aims to achieve ease of doing business by entirely controlling the delivery process. The functions are as follows:
 
 1. Search/Hire nearby and reliable transport service.
 2. Find the optimal path for delivery.
 3. Ensure safe and timely delivery.
 4. Receipt Generation.
 5. Acknowledgement and Feedback.
+
+# Tech Stack
+
+    Android
+    Node.js
+    MySql
+    PHP
+    OracleDB
+    Html
+    Css
+    Jquery
+    Ajax
+    
+
 
 
 
