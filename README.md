@@ -24,3 +24,52 @@ The system aims to achieve ease of doing business by entirely controlling the de
 3. Ensure safe and timely delivery.
 4. Receipt Generation.
 5. Acknowledgement and Feedback.
+
+##System Requirements
+
+    
+    Mysql
+    Git
+    Firefox
+    
+    Node.js
+        For Linux users
+            Install Node.js as described here based on your Linux flavour.
+            
+        For Mac users
+            Install Node.js directly or using homebrew using brew install nodejs
+
+            Those who install Node.js using Homebrew should export the following (or include in $HOME/.bash_profile or $HOME/.profile or$HOME/.bashrc or $HOME/.zshrc, depending on your shell.
+
+            export NODE_PATH="/usr/local/bin/node"
+            export PATH="/usr/local/share/npm/bin:$PATH"
+    
+    Android
+        For Linux users
+            Install Android Studio as described [here](https://google.com) based on your Linux flavpur.
+            
+        For Mac Users 
+            Install Android Studio as described [here](https://google.com) based on your configuration.
+
+            
+
+
+
+## Tech Stack
+
+    Android
+    Node.js
+    MySql
+    PHP
+    OracleDB
+    Html
+    Css
+    Jquery
+    Ajax
+    
+
+
+
+
+
+
