@@ -67,16 +67,28 @@ The system aims to achieve ease of doing business by entirely controlling the de
 - Ajax
 
 ## Screenshots
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/G.png)
 
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/A.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/B.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/C.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/D.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/E.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/F.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/Screenshot_2016-04-12-22-55-05.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/Screenshot_2016-04-12-22-55-02.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/Screenshot_2016-04-12-22-54-48.png)
+
+![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/Screenshot_2016-04-12-22-51-41.png)
+
     
 
 
