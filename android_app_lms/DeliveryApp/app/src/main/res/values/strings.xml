@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Status</item>
+        <item>Map</item>
+        <item>History</item>
+        <item>Logout</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/status_icon</item>
+        <item>@drawable/map_icon</item>
+        <item>@drawable/history_icon</item>
+        <item>@drawable/logout_icon</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>

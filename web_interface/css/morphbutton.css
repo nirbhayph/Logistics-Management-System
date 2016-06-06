@@ -1,0 +1,91 @@
+.morphbutton-content {
+  background-color: white;
+  position: fixed;
+  z-index: 801;
+  overflow: hidden;
+  opacity: 0;
+  transition: all .5s ease-in-out;
+  pointer-events: none;
+  transform: translate(0%, 0%);
+  overflow-y: auto; }
+  body.morphbutton-modal-active .morphbutton-content.active {
+    top: 0     !important;
+    left: 0     !important;
+    bottom: 0;
+    width: 100%  !important;
+    max-height: 100%  !important;
+    pointer-events: auto;
+    visibility: visible; }
+    @media (min-width: 600px) {
+      body.morphbutton-modal-active .morphbutton-content.active {
+        width: 400px !important;
+        top: 50%          !important;
+        left: 50%         !important;
+        bottom: inherit;
+        transform: translate(-50%, -50%); } }
+  .morphbutton-content.active {
+    opacity: 1; }
+
+body::before {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  content: '';
+  z-index: 800;
+  opacity: 0;
+  transition: opacity .5s .2s;
+  pointer-events: none; }
+
+body.morphbutton-modal-active::before {
+  opacity: 1;
+  pointer-events: auto; }
+
+.morphbutton-close {
+  top: 0;
+  right: 0;
+  background: none;
+  border: none;
+  position: absolute; }
+
+.morphbutton-content > * {
+  opacity: 0;
+  transition: opacity 0.5s; }
+
+.morphbutton-content.active > * {
+  opacity: 1; }
+
+.morphbutton-cascade * {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.5s, transform 0.4s; }
+
+.morphbutton-content.active .morphbutton-cascade > * {
+  opacity: 1;
+  transform: translateY(0); }
+
+.morphbutton-cascade > *:first-child {
+  transition-delay: 0.4s; }
+
+.morphbutton-cascade > *:nth-child(2) {
+  transition-delay: 0.45s; }
+
+.morphbutton-cascade > *:nth-child(3) {
+  transition-delay: 0.5s; }
+
+.morphbutton-cascade > *:nth-child(4) {
+  transition-delay: 0.55s; }
+
+.morphbutton-cascade > *:nth-child(5) {
+  transition-delay: 0.6s; }
+
+.morphbutton-cascade > *:nth-child(6) {
+  transition-delay: 0.65s; }
+
+.morphbutton-cascade > *:nth-child(7) {
+  transition-delay: 0.7s; }
+
+.morphbutton-cascade > *:nth-child(8) {
+  transition-delay: 0.75s; }

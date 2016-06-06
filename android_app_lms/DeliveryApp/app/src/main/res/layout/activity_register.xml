@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/register_name"
+        android:layout_width="280dp"
+        android:inputType="textPersonName"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:textColorHint="#cccccc"
+        android:maxLines="1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"/>
+
+    <EditText
+        android:id="@+id/register_email"
+        android:layout_width="280dp"
+        android:inputType="textEmailAddress"
+        android:layout_height="wrap_content"
+        android:hint="E-mail address"
+        android:textColorHint="#cccccc"
+        android:maxLines="1"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/register_name"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/register_password"
+        android:layout_width="280dp"
+        android:inputType="textPassword"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:textColorHint="#cccccc"
+        android:maxLines="1"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/register_email"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/register_password_reenter"
+        android:layout_width="280dp"
+        android:inputType="textPassword"
+        android:layout_height="wrap_content"
+        android:hint="Re-enter password"
+        android:textColorHint="#cccccc"
+        android:maxLines="1"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/register_password"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/register_phone"
+        android:layout_width="280dp"
+        android:inputType="phone"
+        android:layout_height="wrap_content"
+        android:hint="Phone number"
+        android:textColorHint="#cccccc"
+        android:maxLines="1"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/register_password_reenter"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:id="@+id/register_delivery_boy"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/register_phone"
+        android:layout_marginTop="20dp"/>
+
+</RelativeLayout>
