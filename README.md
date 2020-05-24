@@ -25,7 +25,7 @@ The system aims to achieve ease of doing business by entirely controlling the de
 4. Receipt Generation.
 5. Acknowledgement and Feedback.
 
-##System Requirements
+## System Requirements
 
 - JDK 7.0
 - Mysql
