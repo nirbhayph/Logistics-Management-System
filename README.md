@@ -33,7 +33,7 @@ The system aims to achieve ease of doing business by entirely controlling the de
 - Firefox
 - Node.js
   
-  For Linux users: Install Node.js as described here based on your Linux flavour.
+  For Linux users: [Install Node.js](https://www.scaler.com/topics/javascript/install-node-js/) as described here based on your Linux flavour.
             
   For Mac users: Install Node.js directly or using homebrew using brew install nodejs
 
