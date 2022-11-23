@@ -61,7 +61,7 @@ The system aims to achieve ease of doing business by entirely controlling the de
 - MySql
 - PHP
 - OracleDB
-- Html
+- [Html](https://www.scaler.com/topics/html/)
 - Css
 - Jquery
 - Ajax
